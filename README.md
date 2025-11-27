@@ -69,17 +69,10 @@ Debe mostrar la versión de GCC.
 
 2. Archivos necesarios
 
-En una carpeta llamada cpp_project, colocar:
+Crear un folder vacio y abrirlo en Visual Studio Code y crear el siguiente file
 
-cpp_project/
-│
-├── main.cpp
-├── users.txt
-├── appointments.txt
-├── audit.log
-
-
-Los .txt pueden estar vacíos, el programa los creará automáticamente.
+main.cpp y simplemente copiar y pegar el codigo que se encuentra en:
+https://github.com/Vitols-code/Appointments/blob/main/main.cpp
 
 3. Cómo compilar el programa
 
