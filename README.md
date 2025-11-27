@@ -100,7 +100,7 @@ Verás el menú principal:
 Elige:
 
 5. Funcionamiento básico
-✔ Registrar usuario
+ Registrar usuario
 
 Username (sin espacios)
 
@@ -108,11 +108,11 @@ Password (min 6 caracteres)
 
 Rol: client o staff
 
-✔ Login
+ Login
 
 El sistema utiliza hashing SHA-256.
 
-✔ Rol: client
+ Rol: client
 
 Puede:
 
@@ -124,7 +124,7 @@ Reprogramar (solo si faltan >= 24h)
 
 Cancelar sus propias citas
 
-✔ Rol: staff
+Rol: staff
 
 Puede:
 
@@ -174,13 +174,13 @@ errores y accesos
 
 8. Seguridad aplicada
 
-✔ Hashing de contraseñas
-✔ Validación de entrada
-✔ Anti-injection (no se concatena en estructuras sensibles)
-✔ CSV sanitización
-✔ Registro de auditoría
-✔ Control de acceso por rol
-✔ Demostración de overflow vs versión corregida
+ Hashing de contraseñas
+ Validación de entrada
+ Anti-injection (no se concatena en estructuras sensibles)
+ CSV sanitización
+ Registro de auditoría
+ Control de acceso por rol
+ Demostración de overflow vs versión corregida
 
 9. Cómo resetear el sistema
 
